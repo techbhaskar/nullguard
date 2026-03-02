@@ -1,0 +1,8 @@
+/.vscode
+nullguard/target/*
+nullguard/nullguard-agent/target/*
+nullguard/nullguard-cli/target/*
+nullguard/nullguard-core/target/*
+nullguard/nullguard-maven-plugin/target/*
+nullguard/nullguard-report/target/*
+nullguard/nullguard-rules/target/*
